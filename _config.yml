@@ -1,5 +1,1 @@
-deploy:
-type: git
-repo: https://github.com/DarthShruikan/Grafik
-branch: [branch]
-message: [message]
+
